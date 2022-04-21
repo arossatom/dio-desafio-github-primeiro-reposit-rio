@@ -1,0 +1,3 @@
+Link para download do GIT: https://github.com/
+
+O Git Bash é um terminal 
